@@ -1,0 +1,9 @@
+/opt/clion/clion-2023.2.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/zgh/CLionProjects/Three_Body -B /home/zgh/CLionProjects/Three_Body/cmake-build-debug
+-- OpenGL include directory: 
+-- OpenGL found
+-- OpenGL include directory: 
+-- GLM include directory: /usr/lib/cmake/glm
+-- GLM include directory: 
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/zgh/CLionProjects/Three_Body/cmake-build-debug

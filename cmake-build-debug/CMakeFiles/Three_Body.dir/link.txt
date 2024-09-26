@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Three_Body.dir/main.cpp.o -o Three_Body  /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libGLU.so /usr/local/lib/libglfw3.a -lpthread /usr/lib/x86_64-linux-gnu/librt.so -lm -ldl 

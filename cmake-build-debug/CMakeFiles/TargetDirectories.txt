@@ -1,0 +1,3 @@
+/home/zgh/CLionProjects/Three_Body/cmake-build-debug/CMakeFiles/Three_Body.dir
+/home/zgh/CLionProjects/Three_Body/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zgh/CLionProjects/Three_Body/cmake-build-debug/CMakeFiles/rebuild_cache.dir
